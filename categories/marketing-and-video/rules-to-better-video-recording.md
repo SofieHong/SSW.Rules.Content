@@ -26,6 +26,7 @@ index:
 - the-editors-aim-is-to-be-a-coach-not-just-a-video-editor
 - software-for-video-content-creation
 - use-cutaways
+- know-the-basic-terms-for-a-video
 - post-production-do-you-know-which-video-hosting-service-to-choose
 - branded-video-intro-and-outro
 - post-production-do-make-sure-your-video-thumbnail-encourages-people-to-watch-the-video
